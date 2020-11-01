@@ -1,6 +1,7 @@
 # pi-rtc-temp
 
-Small python script for Raspberry Pi to Display place temperature using rtc## notes:
+Small python script for Raspberry Pi to Display place temperature using rtc
+## notes:
 I test this code in DS3231 rtc
 
 its use python3
